@@ -5,7 +5,7 @@ Hello, my name is Evelyn Pena; welcome to my homepage. I'm an undergraduate stud
 ## CPSC 120L Labs
 * Lab 1, Part 1
 
-  Lab 1, part 1, was my favorite and most memorable project to work with because it was the first time I worked with using C++ and my first time coding a program. Although it was a simple project, as a way to introduce us to the course, I enjoyed learning how to use the terminal and VS Code.
+  Lab 1, part 1, was my favorite and most memorable project to work with because it was the first time I worked with using C++. It was also my first time coding a program using a terminal and VS Code. Although it was intimidating at first, the process of learning how to use the terminal and VS Code was enjoyable. Learning the commands of the terminal helped me further grow more confidence and understanding of what to do in the other labs that would be later introduced throughout the course. Although it was a simple project, as a way to introduce us to the course, I enjoyed learning how to use the terminal and VS Code.
 
 * Lab 6, Part 1
 
